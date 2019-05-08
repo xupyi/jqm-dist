@@ -1,0 +1,2 @@
+webpackJsonp([5],{YbHC:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("set-road-work")])])}]};var i=n("VU/8")({data:function(){return{}}},r,!1,function(e){n("pP6T")},"data-v-64e5ec66",null);t.default=i.exports},pP6T:function(e,t){}});
+//# sourceMappingURL=5.1cbce7771c07e53b4e84.js.map
